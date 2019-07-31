@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="18.684641">
+    <testcase classname="login test" name=": login as a driver" time="11.127885">
+        <system-out>
+            <![CDATA[Given OPEN THE LOG IN PAGE..................................................passed
+Then user log in with username and password.................................passed
+And user on the home page...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="login test" name="log in as a storeManager" time="7.556756">
+        <system-out>
+            <![CDATA[Given OPEN THE LOG IN PAGE..................................................passed
+Then manager log in with  username and password.............................passed
+And manager  should be  on the home page....................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
